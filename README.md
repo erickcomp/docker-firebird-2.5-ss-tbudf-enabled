@@ -1,5 +1,5 @@
 # docker-firebird-2.5-ss-tbudf-enabled
-Files for building a Docker image with Firebird 2.5 ss with tbudf library installed
+Files for building a Docker image with Firebird 2.5 ss with tbudf library installed.
 
 # Notes
 The tbudf.so was intended to be a symlink to tbudf_x64_no-debug.so, but firebird does not allow symlinks.
